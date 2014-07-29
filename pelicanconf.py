@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'youngsterxyf'
 SITENAME = u'\u4f17\u6210\u6280\u672f\u805a\u4e50\u90e8'
-SITEURL = ''
+SITEURL = 'http://happytechgroup.github.io'
 
 TIMEZONE = 'Asia/Shanghai'
 
