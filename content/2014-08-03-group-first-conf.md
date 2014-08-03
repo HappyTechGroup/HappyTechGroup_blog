@@ -8,10 +8,10 @@ Tags: 会议, 记录
 
 聚乐部分享内容大致涵盖如下主题
 
-1. 常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached）
-2. 消息队列（Kafka、NSQ）
+1. 常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached等）
+2. 消息队列（Kafka、NSQ等）
 3. 机器学习
-4. 分布式系统原理与实现（Zookeeper、ectd）
+4. 分布式系统原理与实现（Zookeeper、etcd等）
 5. ...
 
 接下来半年时间主要针对**主题1、2**进行研习分享，一、二期的具体安排如下：
