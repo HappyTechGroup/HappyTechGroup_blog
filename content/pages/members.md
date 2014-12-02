@@ -11,6 +11,7 @@ Slug: members
     - 博客：[http://qian-zhu.github.io/](http://qian-zhu.github.io/)
 - **侯哥**：
     - Github：[https://github.com/simonhou](https://github.com/simonhou)
+    - 博客：[http://www.cnblogs.com/hackergodness/](http://www.cnblogs.com/hackergodness/)
 - **爽哥**：
     - Github：[https://github.com/seanluo](https://github.com/seanluo)
     - 博客：[http://www.seanluo.com/](http://www.seanluo.com/)
@@ -24,7 +25,7 @@ Slug: members
     - Github：[https://github.com/killuahzl](https://github.com/killuahzl)
     - 博客：[http://blog.yidooo.net/](http://blog.yidooo.net/)
 - **华哥**：
-    - Github：[https://github.com/humanhuang](https://github.com/huangjunhua)
+    - Github：[https://github.com/huangjunhua](https://github.com/huangjunhua)
 - **松哥**：
     - Github：[https://github.com/aachenxiaosong](https://github.com/aachenxiaosong)
 - **小妹**
