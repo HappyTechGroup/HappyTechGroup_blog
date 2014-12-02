@@ -24,7 +24,7 @@ Slug: members
     - Github：[https://github.com/killuahzl](https://github.com/killuahzl)
     - 博客：[http://blog.yidooo.net/](http://blog.yidooo.net/)
 - **华哥**：
-    - Github：[https://github.com/humanhuang](https://github.com/humanhuang)
+    - Github：[https://github.com/humanhuang](https://github.com/huangjunhua)
 - **松哥**：
     - Github：[https://github.com/aachenxiaosong](https://github.com/aachenxiaosong)
 - **小妹**
