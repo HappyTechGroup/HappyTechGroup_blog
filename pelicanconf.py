@@ -19,7 +19,8 @@ TRANSLATION_FEED_ATOM = None
 # LINKS =  (('众成Github', 'https://github.com/HappyTechGroup'),)
 
 # Social widget
-SOCIAL = (('众成Github', 'https://github.com/HappyTechGroup'),)
+SOCIAL = (('众成Github', 'https://github.com/HappyTechGroup'),
+        ('众成Weibo', 'http://weibo.com/u/5232590998'),)
 
 DEFAULT_PAGINATION = 10
 
