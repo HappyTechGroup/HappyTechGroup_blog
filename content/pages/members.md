@@ -20,7 +20,7 @@ Slug: members
     - 博客：[http://gejiawen.github.io/](http://gejiawen.github.io/)
 - **任哥**：
     - Github：[https://github.com/cherrylee](https://github.com/cherrylee)
-    - 博客：[http://cherrylee.name/](http://cherrylee.name/)
+    - 博客：[http://cherrylee.name/](http://cherryleer.com/)
 - **龙哥**：
     - Github：[https://github.com/killuahzl](https://github.com/killuahzl)
     - 博客：[http://blog.yidooo.net/](http://blog.yidooo.net/)
