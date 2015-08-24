@@ -19,7 +19,7 @@ Slug: members
     - Github：[https://github.com/gejiawen](https://github.com/gejiawen)
     - 博客：[http://gejiawen.github.io/](http://gejiawen.github.io/)
 - **任哥**：
-    - Github：[https://github.com/cherrylee](https://github.com/cherrylee)
+    - Github：[https://github.com/cherrylee](https://github.com/cherryleer)
     - 博客：[http://cherryleer.com/](http://cherryleer.com/)
 - **龙哥**：
     - Github：[https://github.com/killuahzl](https://github.com/killuahzl)
