@@ -47,7 +47,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
      (u'归档', '/archives.html'),
      (u'成员', '/pages/members.html'),
-     (u'关于', '/pages/aboutme.html'),
      (u'RSS', '/feeds/all.xml'),
 )
 
