@@ -1,6 +1,6 @@
-Title: 新一期分享计划建议
+Title: 新一轮分享筹划
 Date: 2015-11-24
-Slug: new-plan-proposals
+Slug: new-plan-prepare
 Tags: 记录, 计划
 
 从去年8月筹划开始到现在，众成技术聚乐部已举行13期分享。
